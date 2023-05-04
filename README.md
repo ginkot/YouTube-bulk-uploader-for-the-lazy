@@ -8,6 +8,7 @@ YouTube Bulk Uploader for the Lazy allows you to easily BULK UPLOAD and TAG 1000
 ------------------------------------------------------------------------------------------------------
 
 [Features]
+
 - Supports ALL YouTube supported video file types. MP4, MOV, MKV, MPEG, 3GP, AVI and more
 - Allows bulk editing of video titles, descriptions, tags, categories, privacy and more
 - Supports multiple YouTube accounts/channels
@@ -26,6 +27,7 @@ YouTube Bulk Uploader for the Lazy allows you to easily BULK UPLOAD and TAG 1000
 ------------------------------------------------------------------------------------------------------
 
 [About]
+
 YouTube Bulk Uploader for the Lazy allows you to easily BULK UPLOAD and TAG 1000's of videos OFFLINE!
 
 The offline capability is truly unique! If you're on a train, bus, in the office or anywhere with no internet connection but need to tag you're videos, then this application is perfect for you! Simply drag and drop 100's of videos onto the software, edit them in bulk, and add to the upload queue! Once you get an internet connection, hit upload!
